@@ -1,0 +1,14 @@
+When is "Done" in an DFD decomposition? 
+
+Notes: 
+
+All independent components are included in a diagram. Breaking it down any more would lead to coding (to a degree). 
+
+When we can define system requirements through the diagram (the diagram is based on what the user needs). 
+
+When a functional prototype has been defined (model or actual prototype functions). 
+
+When processes are all broken down into one singular process (action).
+
+
+Criteria (he said good? This is a mix between clarity and completeness), clarity (correct), completeness (correct), scalability. 
